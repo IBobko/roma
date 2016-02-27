@@ -1,2 +1,2 @@
-My First file!
+DIFF
 My second change!
